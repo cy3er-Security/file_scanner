@@ -8,3 +8,9 @@
 التقنيات:
 مكتبة os للوصول إلى الملفات،
 و hashlib لإنشاء الهاشات للتحقق من الملفات
+
+--BY CY3ER-- youtube https://www.youtube.com/@Cy3erSecurity
+
+whataspp https://whatsapp.com/channel/0029VaBE7gOKgsNug2nByW3x
+
+tiktok https://www.tiktok.com/@cy3er8?_t=8sIOOfUAAlB&_r=1
